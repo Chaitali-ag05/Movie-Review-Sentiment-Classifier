@@ -8,7 +8,7 @@
 
 A machine learning web application that predicts whether a movie review is **positive** or **negative** using Natural Language Processing (NLP). The app is built with Python, scikit‑learn, and Streamlit, and achieves **~88% accuracy** on the IMDB dataset.
 
-👉 **[Live Demo]([https://movie-review-sentiment-classifier.streamlit.app](https://movie-review-sentiment-classifier-njwkfmi6buvpkn6yup7ydg.streamlit.app/))**  
+👉 **[Live Demo](https://movie-review-sentiment-classifier-njwkfmi6buvpkn6yup7ydg.streamlit.app/)**  
 👉 **[GitHub Repository](https://github.com/Chaitali-ag05/Movie-Review-Sentiment-Classifier)**
 
 ---
